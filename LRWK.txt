@@ -1,0 +1,19 @@
+<span id="a">kingleer</span>:<span id="b">~</span><span id="c">$</span> cd ~/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">kingleer</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->kingleer.txt<br/><br/>
+My favorite code quote, "<span id="k">That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art.</span>". <!-- sjkfhskjf -->
+
+Lee-Roy King is a backend focused software developer who isn't scared of the frontend.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>He especially enjoys making APIs who's primary purpose is shenanagins</p>
+<p>He recently used a recursive permutation algorithm to generate new nicknames for one of his friends and then rolled it into a convenient api that also allows regex searches for new nicknames that match a given pattern
+Check it out live at <a href="https://oapi.herokuapp.com/newBelle/belle$">Nickname generator</a></p>
+
+<p>Another recent project was creating an in memory database as a trie in order to create a novel <a href="https://oapi.herokuapp.com/autocomplete/serendip">Autocomplete API</a></p>
+
+<p>Primarily coding in Node.js, vanilla JS and ReactJS</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->He is a co-author of <a href="https://www.npmjs.com/package/@project-jetpack/beam-me-up">Project jetpack's beam-me-up CLI</a>
+As well as coauthor of <a href="https:www.chessboys.com">chessboys</a>
+<p>Currently employed by Amazon Web Services in a role similar to an SRE but his official job title is "Linux Support Associate" (of special note he is the only LSA at Amazon currently.) <br><br><br><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>Feel free to connect with him: <br> 
+<a href="https://github.com/leeroywking">Github</a> <br> 
+<a href="https://www.linkedin.com/in/leeroy-king">LinkedIn</a> <br> 
+<a href="https://www.youracclaim.com/users/lee-roy-king/badges">Acclaim</a></p>
+
+<p>Thanks for visiting!</p>
