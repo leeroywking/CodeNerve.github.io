@@ -8,9 +8,9 @@ Check it out live at <a href="https://oapi.herokuapp.com/newBelle/belle$">Nickna
 
 <p>Another recent project was creating an in memory database as a trie in order to create a novel <a href="https://oapi.herokuapp.com/autocomplete/serendip">Autocomplete API</a></p>
 
-<p>Primarily coding in Node.js, vanilla JS and ReactJS</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->He is a co-author of <a href="https://www.npmjs.com/package/@project-jetpack/beam-me-up">Project jetpack's beam-me-up CLI</a>
+<p>Primarily coding in Node.js, vanilla JS and ReactJS</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->He is a coauthor of <a href="https://www.npmjs.com/package/@project-jetpack/beam-me-up">Project jetpack's beam-me-up CLI</a>
 As well as coauthor of <a href="https:www.chessboys.com">chessboys</a>
-<p>Currently employed by Amazon Web Services in a role similar to an SRE but his official job title is "Linux Support Associate" (of special note he is the only LSA at Amazon currently.) <br><br><br><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>Currently employed by Amazon Web Services in a role similar to a Site-Reliability Engineer but his official job title is "Linux Support Associate" (of special note he is the only LSA at Amazon currently.) <br><br><br><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p>Feel free to connect with him: <br> 
 <a href="https://github.com/leeroywking">Github</a> <br> 
 <a href="https://www.linkedin.com/in/leeroy-king">LinkedIn</a> <br> 
